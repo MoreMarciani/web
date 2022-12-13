@@ -1,0 +1,42 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-image: url(../imagenes/fondo.jpeg);
+    font-family: 'Poppins', sans-serif;
+}
+
+.contenedor{
+    width: 600px;
+    background-color: antiquewhite;
+    margin: 50px auto;
+    padding: 20px;
+    border-radius: 20px;
+    text-align: center;
+}
+.firma{
+    margin: 10px auto;
+    width: 400px;
+    height: 350px;
+}
+.foto{
+    margin: 10px auto;
+    width: 300px;
+    height: 350px;
+    border-radius: 20px;
+    
+}
+.item{
+    display: inline-block;
+    padding: 20px;
+}
+.item img{
+    width: 30px;
+    height: 30px;
+}
+.item .yt{
+    width: 30px;
+    height: 28px;
+}
